@@ -103,7 +103,7 @@ Make sure to update the `homepage` field in `package.json` and the `base` value 
 ## Additional Resources
 
 - [Telegram Mini Apps Documentation](https://docs.telegram-mini-apps.com/)
-- [Traffy Documentation](https://traffy.io/docs) 
+- [Traffy Documentation](https://traffy.site/docs/docs/) 
 - [React Documentation](https://react.dev/)
 - [Telegram UI Documentation](https://github.com/Telegram-Mini-Apps/TelegramUI)
 
